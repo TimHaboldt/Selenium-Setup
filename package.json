@@ -1,0 +1,25 @@
+{
+  "name": "selenium-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "selenium": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimHaboldt/Selenium-Setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimHaboldt/Selenium-Setup/issues"
+  },
+  "homepage": "https://github.com/TimHaboldt/Selenium-Setup#readme",
+  "dependencies": {
+    "@types/selenium-webdriver": "^4.0.18",
+    "node": "^17.7.1",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
